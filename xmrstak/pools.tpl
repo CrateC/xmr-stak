@@ -35,6 +35,7 @@ POOLCONF],
  * Native algorithms which do not depend on any block versions:
  *
  *    # 256KiB scratchpad memory
+ *    cryptonight_talleo
  *    cryptonight_turtle
  *    # 1MiB scratchpad memory
  *    cryptonight_lite
